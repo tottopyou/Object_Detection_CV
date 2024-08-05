@@ -1,5 +1,13 @@
 # Object Detection Project
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Torch](https://img.shields.io/badge/Torch-1.7%2B-red)
+![supervision](https://img.shields.io/badge/supervision-0.1%2B-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-red)
+![NumPy](https://img.shields.io/badge/NumPy-1.19%2B-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3%2B-yellow)
+![Pandas](https://img.shields.io/badge/Pandas-1.1%2B-green)
+
 This project focuses on object detection using the Grounding DINO model, leveraging the COCO dataset for training and evaluation. The implementation utilizes various libraries such as PyTorch, Supervision, and others to perform detection tasks and manage datasets in COCO format.
 
 ## Libraries and Tools
